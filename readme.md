@@ -9,4 +9,6 @@ Para inserir imagem:
 
 Sugestão: criar um repositório para colocar as imagens para inserir no espaço do link.  
 
-O que tiver entre '```bach      ```' será interpretado como código, a palavra bach pode ser substituída pela linguagem de programação utilizada.
+O que tiver entre: 'três acentos agudos + bach + espaço para o código + três acentos agudos'
+
+```bach      ``` será interpretado como código, a palavra bach pode ser substituída pela linguagem de programação utilizada.
