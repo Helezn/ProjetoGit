@@ -38,7 +38,7 @@
 - '##' título nível 2.
 
 **Imagem:** Utilize a tag a seguir para inserir imagens no projeto.
-- '<img src= "caminho da imagem aqui . jpg" width = "defina o tamanho (optativo)"/>' 
+- '<img src= "caminho da imagem aqui . j p g " width = "defina o tamanho (optativo)"/>' 
 
 **Link:** Para colocar o link use o formato abaixo.
 - '![Aqui vai o texto alternativo](Aqui vai o link)'  
