@@ -18,6 +18,20 @@
 -  ```git status ``` Mostra o estado atual do repositório.
 -  ```git log ``` Mostra o histórico de commits.
 
+##  Criar repositório por linha de comando
+- echo "# teste" >> README.md 
+- ```git init``` 
+- ```git add README.md``` 
+- ```git commit -m "primeiro commit"``` 
+- ```git branch -M main``` 
+- ```git remote add origin https://github.com/Helezn/teste.git```
+- ```git push -u origin main```
+
+## Envio de repositório existente por linha de comando
+- ```git remoto adicionar origem https://github.com/Helezn/teste.git```
+- ```git branch -M principal``` 
+- ```git push -u origem principal```
+ 
 ## Utilização
 
 - Após alteração de código, para subir informações para um repositório, hospedagem online, etc.
